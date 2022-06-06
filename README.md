@@ -13,7 +13,7 @@ Examples of NLP notebook tasks..
   
   <tr>
     <td class="tg-yw4l">Bag of Words</td>
-    <td class="tg-yw4l">Build a simple bag of words text classifier.</td>
+    <td class="tg-yw4l">Create first bag of words BoW</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/14OQs9z0IPKMCIt4Fi8vSU1tgIAyVz7yc?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
@@ -21,7 +21,7 @@ Examples of NLP notebook tasks..
   
   <tr>
     <td class="tg-yw4l">Continuous Bag of Words CBOW</td>
-    <td class="tg-yw4l">Build a continuous bag of words text classifier.</td>
+    <td class="tg-yw4l">Create a continuous bag of words CBoW</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1m2ebECAKs8VDfEolY81tfoaFaQ7WN5uJ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
